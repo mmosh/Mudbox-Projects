@@ -1,0 +1,6 @@
+Tool;Create Curve;Icons/Brush/CreateCurve.png;Create Curve;;0;0
+Tool;Grab Curve;Icons/Brush/GrabCurve.png;Grab Curve;;0;0
+Tool;Smooth Curve;Icons/Brush/SmoothCurve.png;Smooth Curve;;0;0
+Tool;Erase Curve;Icons/Brush/EraseCurve.png;Erase Curve;;0;1
+Tool;Curve Loop;Icons/Brush/CurveLoop.png;Curve Loop;;0;1
+Tool;Border Curve;Icons/Brush/BorderCurve.png;Border Curve;;0;1

@@ -1,0 +1,16 @@
+Tool;Paint Brush;Icons/Brush/PaintBrush.png;Paint Brush;;0;0
+Tool;Projection;Icons/Brush/Projection.png;Projection;;0;0
+Tool;Eyedropper;Icons/Brush/ColorPicker.png;Eyedropper;;0;0
+Tool;Airbrush;Icons/Brush/Airbrush.png;Airbrush;;0;0
+Tool;Pencil;Icons/Brush/Pencil.png;Pencil;;0;0
+Tool;Paint Erase;Icons/Brush/PaintErase.png;Paint Erase;;0;0
+Tool;Clone;Icons/Brush/Clone.png;Clone;;0;0
+Tool;Dry Brush;Icons/Brush/DryBrush.png;Dry Brush;;0;0
+Tool;Blur;Icons/Brush/Blur.png;Blur;;0;0
+Tool;Dodge;Icons/Brush/Dodge.png;Dodge;;0;0
+Tool;Burn;Icons/Brush/Burn.png;Burn;;0;0
+Tool;Contrast;Icons/Brush/Contrast.png;Contrast;;0;0
+Tool;Sponge;Icons/Brush/Sponge.png;Sponge;;0;0
+Tool;Hue;Icons/Brush/Hue.png;Hue;;0;0
+Tool;Hue Shift;Icons/Brush/HueShift.png;Hue Shift;;0;0
+Tool;Invert;Icons/Brush/Invert.png;Invert;;0;0

@@ -1,0 +1,8 @@
+Tool;Faces;Icons/Brush/Faces.png;Faces;;0;0
+Tool;Objects;Icons/Brush/Objects.png;Objects;;0;0
+Tool;Holes;Icons/Brush/Holes.png;Borders;;0;0
+Tool;UV Shells;Icons/Brush/UVShells.png;UV Shells;;0;0
+Tool;Translate;Icons/Brush/Translate.png;Translate;;0;0
+Tool;Rotate;Icons/Brush/Rotate.png;Rotate;;0;0
+Tool;Scale;Icons/Brush/Scale.png;Scale;;0;0
+Tool;Caliper;Icons/Brush/CalliperBrush.png;Caliper;;0;2

@@ -1,0 +1,4 @@
+Tool;Create Joint;Icons/Brush/CreateJoint.png;Create Joint;;0;0
+Tool;Pose;Icons/Brush/Pose.png;Pose;;0;0
+Tool;Weights;Icons/Brush/Weights.png;Weights;;0;0
+Tool;Move Pivot;Icons/Brush/MovePivot.png;Move Pivot;;0;0

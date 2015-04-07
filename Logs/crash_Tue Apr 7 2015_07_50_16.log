@@ -1,0 +1,471 @@
+Memory: 39 MB/6.1 GB, 99%%
+Qt version: 4.8.5 (compiled against: 4.8.5)
+Loading plugins from:/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS
+Loading plugins from:/Users/Max/Library/Application Support/Autodesk/Mudbox 2015/Plugins
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/AmbientOcclusionSampler.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/AutoExtract.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/BTreePicker.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/BumpToNormal.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/CalliperBrush.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/CavityViewportFilter.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/CCSurfaceSmoother.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/CgMaterial.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/CgViewPortFilter.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/ColorCorrection.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/ColorTransfer.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/CurveCutting.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/Curves.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/CurveTransfer.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/DepthMapViewportFilter.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/DetailBrush.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/DetailTransfer.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/DiffuseMaterial.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/DOFViewPortFilter.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/DuplicateCommand.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/EdgeBleeding.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/EnvironmentMapLoader.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/ErasePaintLayer.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/ExportAllPaintLayers.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/EyeDropperBrush.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/FastBrush.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/FastMoveBrush.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/FbxTranslator.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/FlipCommand.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/FreezeTransformations.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/GeneralImage.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/HalfEdge.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/HWMeshRenderer.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/HWPicker.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/IBLMaterial.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/ImageBlur.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/LitSphereMaterial.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/LiveUpdate.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/MapExtractor.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/MapExtractorAPI.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/Marquee.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/MaskEditor.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/MBStandardMaterial.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/MeshBeautifier.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/MeshChecker.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/MeshDisplace.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/MeshGrid.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/MeshOperations.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/MeshReduce.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/MeshTriangulation.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/MudboxScriptRunner.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/MudLife.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/MultiBrush.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/NormalMapViewportFilter.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/NPRViewPortFilter.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/ObjectSelectionBrush.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/OneClickExport.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/PaintSelectionBrush.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/PatchHole.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/Poser.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/PtexExtractor.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/PtexImporter.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/Retopology.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/RolloverHighlightingFilter.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/SceneLogger.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/SimpleShaderMaterial.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/SketchTopology.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/SSAOViewportFilter.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/SSSViewPortFilter.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/Substances.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/TangentGenerator.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/Texture.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/TextureLayers.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/TexturePaintBrush.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/TileablePlane.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/TileHistogram.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/TonemappingViewPortFilter.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/TransformationTools.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/Turntable.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/UnprojectTextures.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/Unsubdivide.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/Unwrapper.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/UVlessPainting.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/VDMCreator.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/VertexExtractor.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/VertexPaintBrush.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/VoxelBrush.dylib
+Possible mesh renderer: HWRenderer
+Possible screen space picker: HWPicker
+Possible material: Simple Blinn Material
+Possible material: Mudbox Material
+Possible material: canvasmaterial
+Possible material: Lit Sphere Material
+Possible material: Mudbox Material (2009)
+Possible material: Mudbox Diffuse Material
+Possible material: viewcurvecanvasmaterial
+Possible material: CgFX Based Material
+Plugins in memory:
+	0: CgMaterial - Cg accelerated material, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:13:44
+	1: Map Extractor - Map Extraction between meshes, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:12:50
+	2: AOSampler - Ambient Occlusion Texture Generator, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:22:46
+	3: AutoExtract.dylib - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	4: BTPicker - Balanced Tree Picker, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:21:32
+	5: Bump to Normal - Bump Map to Normal Map, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:20:02
+	6: CalliperBrush - CalliperBrush, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:22:30
+	7: Cavity - Cavity Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:20:13
+	8: CCSurfaceSmoother - Catmull-Clark Limit Surface Calculator, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:21:19
+	9: CgMaterial.dylib - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	10: CgViewPortFilter - Cg based simple viewport filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:20:08
+	11: ColorCorrection - Color Correction, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:19:31
+	12: Edge Bleeding Utilities - Edge Bleeding Utilities, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:13:53
+	13: CurveCutting - cut the mesh using curves, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:24:44
+	14: CurveBuilder - Draw, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:21:59
+	15: MapExtractorAPI - Easy to use API for map extraction, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:13:39
+	16: Depth Map Filter - Depth Map Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:22:28
+	17: HalfEdge - Half Edge, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:21:39
+	18: MeshTriangulation - Triangulate Meshe, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:20:55
+	19: Mesh Detail Brush - Mesh detail brush, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:26:26
+	20: MarqueeBrush - Draw, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:21:09
+	21: Poser - Rotating/scaling/moving vertices using bones, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:23:03
+	22: VertexExtractor - Extract values to vertex properties, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:24:11
+	23: UVlessPainting - PTEX Setup..., Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:14:15
+	24: MB Diffuse Material - Mudbox Diffuse Material, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:20:00
+	25: Depth of Field - Depth of Field Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:20:09
+	26: DuplicateCommand - Duplicate Command, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:24:32
+	27: EdgeBleeding.dylib - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	28: EnvironmentMapLoader - Environment Map Loader, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:21:53
+	29: Erase Paint Layer - Erase the Paint Layer of Color, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:21:04
+	30: ExportPaintLayers - Export all paint layers, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:21:45
+	31: Eye Dropper Brush - Eye Dropper brush for picking color, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:17:57
+	32: Fast Brush - Hardware accelerated simple sculptor brush, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:26:30
+	33: FastMoveBrush - Fast version of the move tool, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:27:10
+	34: FBX Importer - FBX file import/export plugin, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:27:35
+	35: FlipCommand - Flip Command, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:24:25
+	36: FreezeTransformations - Flip Transformations, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:23:25
+	37: General Image - Basic Image Handler, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:28:24
+	38: HalfEdge.dylib - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	39: HWRenderer - Hardware accelerated mesh renderer, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:23:28
+	40: HWPicker - Hardware accelerated mesh pick, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:21:13
+	41: IBL Material - Image Based Lighting, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:19:45
+ImageBlur: Plugin initialized
+	42: Image Blur - Blur Image Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:19:11
+	43: Lit Sphere Material - Lit Sphere NPR, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:20:16
+	44: LiveUpdate - Check Updates, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:18:54
+	45: MapExtractor.dylib - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	46: MapExtractorAPI.dylib - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	47: Marquee.dylib - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	48: MaskEditor - Stencil/Stamp/Image plane editing functions, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:22:35
+	49: MB Standard Material - Mudbox Material, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:19:53
+	50: MeshBeautifier - beautify the mesh, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:26:24
+	51: Mesh Checker - Mech checker on import, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:17:28
+	52: MeshDisplacer - Displacement operation for meshes, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:29:17
+	53: MeshGrid - Preprocessed Face Count Reduction, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:21:03
+	54: MeshOperations - Mesh Operations, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:24:50
+	55: MeshReduce - Mesh Reduction, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:24:07
+	56: MeshTriangulation.dylib - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	57: MudboxScriptRunner - The GUI plugin to run the specify Mudboxscript, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:19:01
+	58: Mudbox Community - Mudbox Community, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:18:13, Version: 1.0
+	59: MultiBrush - MultiBrush Tool, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:20:58
+	60: Normal Map Filter - Normal Map Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:21:57
+	61: Non Photorealistic Rendering - NPR Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:20:15
+	62: ObjectSelectionBrush - ObjectSelectionBrush, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:17:10
+	63: NewOneClick - One Click Interop with Maya / 3ds Max / Softimage., Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:20:35
+	64: PaintSelectionBrush - PaintSelectionBrush, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:22:48
+	65: PatchHole - Patch a Hole in a Mesh, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:26:06
+	66: Poser.dylib - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	67: PtexExtractor.dylib - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	68: PtexImporter.dylib - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	69: Retopology - Create new topology for existing meshes, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:25:18
+	70: Rollover Highlighting Filter - Rollover Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:18:00
+	71: SceneLogger - Used for Interop, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:18:56
+	72: Basic Material - Simple Material, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:20:22
+	73: SketchTopology - Sketch Topology, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:23:38
+	74: Screen Space Ambient Occlusion - Screen Space Ambient Occlusion Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:21:55
+	75: Skin Effect Viewport Filter - Skin Effect Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:20:11
+	76: Substances - Supporting Substances as stams and stencils, Author: Allegorithmic, URL: http://www.allegorithmic.com, Build time: Feb 27 2014 10:21:38
+	77: TangentGenerator - Vertex Tangent and Binormal Generator, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:20:53
+	78: Texture - Default Texture Class Implementation, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:17:38
+	79: TileHistogram - TIB generator and Tile Histogram generator, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:17:17
+	80: TextureLayers - Layer Structure for TexturesCg accelerated material, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:19:20
+	81: Texture Paint Brush - Hardware accelerated texture paint brush, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:16:57
+	82: TilingPlane - Tiling plane for sculpting and painting, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:21:15
+	83: TileHistogram.dylib - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	84: Tonemapper - Tonemapping Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:20:06
+	85: Transformation Tools - Transformation Tools, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:17:07
+	86: Turntable - Create a turntable animation, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:20:48
+UnprojectTextures: Plugin initialized
+	87: UnprojectTextures - Screen Space Texture Unprojection and Extraction, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:17:26
+	88: Unsubdivide - Rebuild subdivision levels, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:19:06
+	89: Unwrapper - Converter between UV and world space, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:21:00
+	90: UVlessPainting.dylib - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	91: VDMCreator - Strong smooth operation on meshes, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:21:40
+	92: VertexExtractor.dylib - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	93: Vertex Paint Brush - Vertex property paint brush, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:22:54
+	94: Voxel Brush - Voxel Based Sketching Tool, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:17:53
+Loading program from file: Shaders/Curves/CurvesFragment.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/Curves/CurvesVertex.binLoading program source for the profile glslv, compiled with -DCG_PROFILE_GLSLV=1Adding compile option : -DCG_PROFILE_GLSLV=1 Loading program from file: Shaders/Curves/CurvesFragment.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/Curves/CurvesVertex.binLoading program source for the profile glslv, compiled with -DCG_PROFILE_GLSLV=1Adding compile option : -DCG_PROFILE_GLSLV=1 Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/Basic Head.mud: Current stream version is 506, file is 402
+/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/Bull.mud: Current stream version is 506, file is 402
+/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/Car.mud: Current stream version is 506, file is 505
+/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/Cube.mud: Current stream version is 506, file is 402
+/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/Human Body.mud: Current stream version is 506, file is 505
+/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/Plane.mud: Current stream version is 506, file is 403
+/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/Reptile.mud: Current stream version is 506, file is 402
+/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/Sphere.mud: Current stream version is 506, file is 402
+/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/T Rex.mud: Current stream version is 506, file is 403
+/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/Tree Stump.mud: Current stream version is 506, file is 402
+file ext string = *.png *.jpg *.gif *.bmp *.tif *.psd *.tga *.exr
+Using shader compile flags -DVERTEX_PROFILE=glslv -DFRAGMENT_PROFILE=glslf -DCG_PROFILE_GLSLV=1 -DCG_PROFILE_GLSLF=1
+Additional flags:
+Effect file Effects/MBStandardMaterial/MBStandardMaterial.bin loaded and compiled:
+Technique MBMaterial passed validation in effect Effects/MBStandardMaterial/MBStandardMaterial.binLoading program from file: Shaders/NPR/Blur.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Cg Error compiling program. 
+Loading program from file: Shaders/NPR/EdgePostProcess.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/NPR/NPRPostProcess.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/NormalMapViewportFilter/NormalMapViewportFilter.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/DepthMapViewportFilter/DepthMapViewportFilter.binLoading program source for the profile arbfp1, compiled with -DCG_PROFILE_ARBFP1=1Adding compile option : -DCG_PROFILE_ARBFP1=1 Adding compile option : -po Adding compile option : NumInstructionSlots=16384 Adding compile option : -po Adding compile option : NumMathInstructionSlots=16384 Adding compile option : -po Adding compile option : MaxLocalParams=1024 Loading program from file: Shaders/SSAO/screen_space_AO_Mac.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/SSAO/screen_space_AO_Mac.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/SSAO/screen_space_AO_Mac.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/SSAO/screen_space_AO_Mac.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/Cavity/AO.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/DOF/DOF.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/DOF/Blur.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/Tonemapping/RGBToLuminance.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/Tonemapping/MinMax.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/Tonemapping/Downscale.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/Tonemapping/Gamma.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Sculpt[Sculpt] brush selected
+Stamp set to OFF
+Loading preferences
+Cg error: Invalid program handle.
+Cg error: Invalid context handle.
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Autodesk Mudbox 2015
+---------------- ADLM info for CIP Initialization;
+m_sUPIConfigFile:       /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/UPI/UPISpec64
+m_sMapConfigFile:       /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/MC3/mapfile.mlm
+m_sUserGuid:            
+m_sSerialNumber:        000-00000000
+m_sProductName:         Mudbox 2015
+m_sFeatureName:         MBXPRO_F_S_TL
+m_sFeatureVersion:      2014.0411
+m_sProductKey:          498G1
+m_sT2PId:               
+m_iLicenceBehaviour:    5
+m_iLicenseExpDateState: 2
+m_iLicenseUsage:        6
+localeID:               1033
+crashCount:             0
+uptime:                 237
+calUptime:              8325
+m_eInitMode:            0
+---------------- END ADLM info for CIP Initialization
+Undo
+Undo
+Loading program from file: Shaders/TileIDVertex.binLoading program source for the profile glslv, compiled with -DCG_PROFILE_GLSLV=1Adding compile option : -DCG_PROFILE_GLSLV=1 Loading program from file: Shaders/TileIDFragment.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/T Rex.mud: Current stream version is 506, file is 403
+Loading file /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/T Rex.mud, version 403
+file ext string = *.png *.jpg *.gif *.bmp *.tif *.psd *.tga *.exr
+Using shader compile flags -DVERTEX_PROFILE=glslv -DFRAGMENT_PROFILE=glslf -DCG_PROFILE_GLSLV=1 -DCG_PROFILE_GLSLF=1
+Additional flags:
+-DMB_MAXMATRIXBONES=26
+-DMB_MAXDQBONES=40
+Effect file Effects/advanced.bin loaded and compiled:
+Technique MBMaterial passed validation in effect Effects/advanced.binfile ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+Loading program from file: Shaders/PickerVertex.binLoading program source for the profile glslv, compiled with -DCG_PROFILE_GLSLV=1Adding compile option : -DCG_PROFILE_GLSLV=1 Loading program from file: Shaders/PickerMatrixSkinnedVertex.binLoading program source for the profile glslv, compiled with -DCG_PROFILE_GLSLV=1Adding compile option : -DCG_PROFILE_GLSLV=1 Loading program from file: Shaders/PickerDualQuaternionSkinnedVertex.binLoading program source for the profile glslv, compiled with -DCG_PROFILE_GLSLV=1Adding compile option : -DCG_PROFILE_GLSLV=1 Using shader compile flags -DVERTEX_PROFILE=glslv -DFRAGMENT_PROFILE=glslf -DCG_PROFILE_GLSLV=1 -DCG_PROFILE_GLSLF=1
+Additional flags:
+Effect file Effects/MBStandardMaterial/MBStandardMaterial.bin loaded and compiled:
+Technique MBMaterial passed validation in effect Effects/MBStandardMaterial/MBStandardMaterial.binToggle shading off
+Toggle shading on
+Turning wireframe on shaded off
+Turning wireframe on shaded on
+Flat lighting on
+Flat lighting off
+Toggle show curves off
+Toggle show curves on
+Toggle light off
+Toggle light on
+Turning wireframe on shaded off
+Turning wireframe on shaded on
+Toggle cull off
+Toggle cull on
+Toggle gradient background %s
+Toggle gradient background %s
+Turning wireframe on shaded off
+Flat lighting on
+Flat lighting off
+Subdivide tRex
+Mapping 7248 faces upto level 1
+ Calculating CC positions on level 1
+Unmapping level 0
+Level down on tRex
+Remapping level 0
+ Calculating CC positions on level 1
+Unmapping level 1
+Removing highest level
+ Destructing mesh
+Subdivide tRex
+Mapping 7248 faces upto level 1
+ Calculating CC positions on level 1
+Unmapping level 0
+Subdivide tRex
+Mapping 28992 faces upto level 2
+ Calculating CC positions on level 2
+Unmapping level 1
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Saving to file /Users/Max/Projects/Mudbox Projects/T-Rex.mud, version 506
+File contents:
+0000: 00002136(2 KiB) XScene
+0001: 00002a3c(600 bytes) XTransformation
+0002: 00002c94(402 bytes) XCamera
+0003: 00002e26(198 bytes) DirectionalLight
+0004: 00002eec(600 bytes) XTransformation
+0005: 00003144(95 bytes) Stencil
+0006: 000031a3(600 bytes) XTransformation
+0007: 000033fb(394 bytes) XCamera
+0008: 00003585(600 bytes) XTransformation
+0009: 000037dd(105 bytes) ImagePlane
+0010: 00003846(600 bytes) XTransformation
+0011: 00003a9e(30 bytes) ReplayHandler::ConcreteHandler
+0012: 00003abc(95 bytes) Stencil
+0013: 00003b1b(395 bytes) XCamera
+0014: 00003ca6(396 bytes) XCamera
+0015: 00003e32(1 KiB) MBStandardMaterial
+0016: 00004350(105 bytes) ImagePlane
+0017: 000043b9(95 bytes) Stencil
+0018: 00004418(95 bytes) Stencil
+0019: 00004477(30 bytes) TileData
+0020: 00004495(600 bytes) XTransformation
+0021: 000046ed(130 bytes) TextureChannel
+0022: 0000476f(133 bytes) TextureChannel
+0023: 000047f4(124 bytes) TextureChannel
+0024: 00004870(148 bytes) TextureChannel
+0025: 00004904(130 bytes) TextureChannel
+0026: 00004986(178 bytes) TextureChannel
+0027: 00004a38(133 bytes) TextureChannel
+0028: 00004abd(139 bytes) TextureChannel
+0029: 00004b48(154 bytes) TextureChannel
+0030: 00004be2(105 bytes) ImagePlane
+0031: 00004c4b(105 bytes) ImagePlane
+0032: 00004cb4(103 bytes) XGeometry
+0033: 00004d1b(172 bytes) ExportAllPaintLayersNode
+0034: 00004dc7(173 bytes) TextureSet
+0035: 00004e74(174 bytes) TextureSet
+0036: 00004f22(171 bytes) TextureSet
+0037: 00004fcd(179 bytes) TextureSet
+0038: 00005080(173 bytes) TextureSet
+0039: 0000512d(189 bytes) TextureSet
+0040: 000051ea(174 bytes) TextureSet
+0041: 00005298(176 bytes) TextureSet
+0042: 00005348(181 bytes) TextureSet
+0043: 000053fd(114 KiB) XSubdivisionLevel
+0044: 00021df3(176 bytes) ExportAllPaintLayersNode
+0045: 00021ea3(56 bytes) HWRenderer
+0046: 00021edb(56 bytes) HWRenderer
+0047: 00021f13(47 bytes) MudboxMeshGrid
+0048: 00021f42(241 KiB) XSubdivisionLevel
+0049: 0005e381(56 bytes) HWRenderer
+0050: 0005e3b9(70 KiB) PatchMap
+0051: 0006fefd(57 bytes) HWRenderer
+0052: 0006ff36(57 bytes) HWRenderer
+0053: 0006ff6f(47 bytes) MudboxMeshGrid
+0054: 0006ff9e(963 KiB) XSubdivisionLevel
+0055: 00160bbf(56 bytes) HWRenderer
+0056: 00160bf7(57 bytes) HWRenderer
+0057: 00160c30(57 bytes) HWRenderer
+0058: 00160c69(47 bytes) MudboxMeshGrid
+0059: 00160c98(56 bytes) HWRenderer
+Autodesk Mudbox 2015
+Cg error: Invalid program handle.
+Cg error: Invalid context handle.
+Total number of polygons rendered during the session: 8532708
+Shutdown, memory used: 0 Megabytes
+ Destructing mesh
+ Destructing mesh
+ Destructing mesh

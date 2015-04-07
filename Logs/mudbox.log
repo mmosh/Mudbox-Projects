@@ -1,0 +1,1725 @@
+Memory: 74 MB/5.8 GB, 98%%
+Qt version: 4.8.5 (compiled against: 4.8.5)
+Loading plugins from:/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS
+Loading plugins from:/Users/Max/Library/Application Support/Autodesk/Mudbox 2015/Plugins
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/AmbientOcclusionSampler.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/AutoExtract.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/BTreePicker.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/BumpToNormal.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/CalliperBrush.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/CavityViewportFilter.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/CCSurfaceSmoother.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/CgMaterial.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/CgViewPortFilter.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/ColorCorrection.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/ColorTransfer.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/CurveCutting.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/Curves.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/CurveTransfer.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/DepthMapViewportFilter.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/DetailBrush.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/DetailTransfer.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/DiffuseMaterial.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/DOFViewPortFilter.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/DuplicateCommand.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/EdgeBleeding.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/EnvironmentMapLoader.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/ErasePaintLayer.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/ExportAllPaintLayers.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/EyeDropperBrush.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/FastBrush.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/FastMoveBrush.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/FbxTranslator.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/FlipCommand.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/FreezeTransformations.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/GeneralImage.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/HalfEdge.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/HWMeshRenderer.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/HWPicker.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/IBLMaterial.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/ImageBlur.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/LitSphereMaterial.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/LiveUpdate.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/MapExtractor.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/MapExtractorAPI.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/Marquee.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/MaskEditor.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/MBStandardMaterial.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/MeshBeautifier.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/MeshChecker.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/MeshDisplace.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/MeshGrid.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/MeshOperations.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/MeshReduce.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/MeshTriangulation.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/MudboxScriptRunner.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/MudLife.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/MultiBrush.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/NormalMapViewportFilter.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/NPRViewPortFilter.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/ObjectSelectionBrush.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/OneClickExport.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/PaintSelectionBrush.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/PatchHole.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/Poser.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/PtexExtractor.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/PtexImporter.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/Retopology.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/RolloverHighlightingFilter.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/SceneLogger.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/SimpleShaderMaterial.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/SketchTopology.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/SSAOViewportFilter.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/SSSViewPortFilter.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/Substances.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/TangentGenerator.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/Texture.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/TextureLayers.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/TexturePaintBrush.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/TileablePlane.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/TileHistogram.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/TonemappingViewPortFilter.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/TransformationTools.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/Turntable.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/UnprojectTextures.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/Unsubdivide.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/Unwrapper.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/UVlessPainting.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/VDMCreator.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/VertexExtractor.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/VertexPaintBrush.dylib
+Loading plugin /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/plugins/VoxelBrush.dylib
+Possible mesh renderer: HWRenderer
+Possible screen space picker: HWPicker
+Possible material: Simple Blinn Material
+Possible material: Mudbox Material
+Possible material: canvasmaterial
+Possible material: Lit Sphere Material
+Possible material: Mudbox Material (2009)
+Possible material: Mudbox Diffuse Material
+Possible material: viewcurvecanvasmaterial
+Possible material: CgFX Based Material
+Plugins in memory:
+	0: CgMaterial - Cg accelerated material, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:13:44
+	1: Map Extractor - Map Extraction between meshes, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:12:50
+	2: AOSampler - Ambient Occlusion Texture Generator, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:22:46
+	3: AutoExtract.dylib - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	4: BTPicker - Balanced Tree Picker, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:21:32
+	5: Bump to Normal - Bump Map to Normal Map, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:20:02
+	6: CalliperBrush - CalliperBrush, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:22:30
+	7: Cavity - Cavity Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:20:13
+	8: CCSurfaceSmoother - Catmull-Clark Limit Surface Calculator, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:21:19
+	9: CgMaterial.dylib - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	10: CgViewPortFilter - Cg based simple viewport filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:20:08
+	11: ColorCorrection - Color Correction, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:19:31
+	12: Edge Bleeding Utilities - Edge Bleeding Utilities, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:13:53
+	13: CurveCutting - cut the mesh using curves, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:24:44
+	14: CurveBuilder - Draw, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:21:59
+	15: MapExtractorAPI - Easy to use API for map extraction, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:13:39
+	16: Depth Map Filter - Depth Map Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:22:28
+	17: HalfEdge - Half Edge, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:21:39
+	18: MeshTriangulation - Triangulate Meshe, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:20:55
+	19: Mesh Detail Brush - Mesh detail brush, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:26:26
+	20: MarqueeBrush - Draw, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:21:09
+	21: Poser - Rotating/scaling/moving vertices using bones, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:23:03
+	22: VertexExtractor - Extract values to vertex properties, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:24:11
+	23: UVlessPainting - PTEX Setup..., Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:14:15
+	24: MB Diffuse Material - Mudbox Diffuse Material, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:20:00
+	25: Depth of Field - Depth of Field Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:20:09
+	26: DuplicateCommand - Duplicate Command, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:24:32
+	27: EdgeBleeding.dylib - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	28: EnvironmentMapLoader - Environment Map Loader, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:21:53
+	29: Erase Paint Layer - Erase the Paint Layer of Color, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:21:04
+	30: ExportPaintLayers - Export all paint layers, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:21:45
+	31: Eye Dropper Brush - Eye Dropper brush for picking color, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:17:57
+	32: Fast Brush - Hardware accelerated simple sculptor brush, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:26:30
+	33: FastMoveBrush - Fast version of the move tool, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:27:10
+	34: FBX Importer - FBX file import/export plugin, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:27:35
+	35: FlipCommand - Flip Command, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:24:25
+	36: FreezeTransformations - Flip Transformations, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:23:25
+	37: General Image - Basic Image Handler, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:28:24
+	38: HalfEdge.dylib - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	39: HWRenderer - Hardware accelerated mesh renderer, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:23:28
+	40: HWPicker - Hardware accelerated mesh pick, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:21:13
+	41: IBL Material - Image Based Lighting, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:19:45
+ImageBlur: Plugin initialized
+	42: Image Blur - Blur Image Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:19:11
+	43: Lit Sphere Material - Lit Sphere NPR, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:20:16
+	44: LiveUpdate - Check Updates, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:18:54
+	45: MapExtractor.dylib - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	46: MapExtractorAPI.dylib - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	47: Marquee.dylib - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	48: MaskEditor - Stencil/Stamp/Image plane editing functions, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:22:35
+	49: MB Standard Material - Mudbox Material, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:19:53
+	50: MeshBeautifier - beautify the mesh, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:26:24
+	51: Mesh Checker - Mech checker on import, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:17:28
+	52: MeshDisplacer - Displacement operation for meshes, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:29:17
+	53: MeshGrid - Preprocessed Face Count Reduction, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:21:03
+	54: MeshOperations - Mesh Operations, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:24:50
+	55: MeshReduce - Mesh Reduction, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:24:07
+	56: MeshTriangulation.dylib - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	57: MudboxScriptRunner - The GUI plugin to run the specify Mudboxscript, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:19:01
+	58: Mudbox Community - Mudbox Community, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:18:13, Version: 1.0
+	59: MultiBrush - MultiBrush Tool, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:20:58
+	60: Normal Map Filter - Normal Map Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:21:57
+	61: Non Photorealistic Rendering - NPR Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:20:15
+	62: ObjectSelectionBrush - ObjectSelectionBrush, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:17:10
+	63: NewOneClick - One Click Interop with Maya / 3ds Max / Softimage., Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:20:35
+	64: PaintSelectionBrush - PaintSelectionBrush, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:22:48
+	65: PatchHole - Patch a Hole in a Mesh, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:26:06
+	66: Poser.dylib - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	67: PtexExtractor.dylib - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	68: PtexImporter.dylib - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	69: Retopology - Create new topology for existing meshes, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:25:18
+	70: Rollover Highlighting Filter - Rollover Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:18:00
+	71: SceneLogger - Used for Interop, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:18:56
+	72: Basic Material - Simple Material, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:20:22
+	73: SketchTopology - Sketch Topology, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:23:38
+	74: Screen Space Ambient Occlusion - Screen Space Ambient Occlusion Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:21:55
+	75: Skin Effect Viewport Filter - Skin Effect Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:20:11
+	76: Substances - Supporting Substances as stams and stencils, Author: Allegorithmic, URL: http://www.allegorithmic.com, Build time: Feb 27 2014 10:21:38
+	77: TangentGenerator - Vertex Tangent and Binormal Generator, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:20:53
+	78: Texture - Default Texture Class Implementation, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:17:38
+	79: TileHistogram - TIB generator and Tile Histogram generator, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:17:17
+	80: TextureLayers - Layer Structure for TexturesCg accelerated material, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:19:20
+	81: Texture Paint Brush - Hardware accelerated texture paint brush, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:16:57
+	82: TilingPlane - Tiling plane for sculpting and painting, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:21:15
+	83: TileHistogram.dylib - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	84: Tonemapper - Tonemapping Viewport Filter, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:20:06
+	85: Transformation Tools - Transformation Tools, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:17:07
+	86: Turntable - Create a turntable animation, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:20:48
+UnprojectTextures: Plugin initialized
+	87: UnprojectTextures - Screen Space Texture Unprojection and Extraction, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:17:26
+	88: Unsubdivide - Rebuild subdivision levels, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:19:06
+	89: Unwrapper - Converter between UV and world space, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:21:00
+	90: UVlessPainting.dylib - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	91: VDMCreator - Strong smooth operation on meshes, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:21:40
+	92: VertexExtractor.dylib - No description, Author: Unknown, URL: Unknown, Build time: Unknown
+	93: Vertex Paint Brush - Vertex property paint brush, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:22:54
+	94: Voxel Brush - Voxel Based Sketching Tool, Author: Autodesk, URL: http://www.mudbox3d.com, Build time: Feb 27 2014 10:17:53
+Loading program from file: Shaders/Curves/CurvesFragment.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/Curves/CurvesVertex.binLoading program source for the profile glslv, compiled with -DCG_PROFILE_GLSLV=1Adding compile option : -DCG_PROFILE_GLSLV=1 Loading program from file: Shaders/Curves/CurvesFragment.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/Curves/CurvesVertex.binLoading program source for the profile glslv, compiled with -DCG_PROFILE_GLSLV=1Adding compile option : -DCG_PROFILE_GLSLV=1 Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+file ext string = *.png *.jpg *.gif *.bmp *.tif *.psd *.tga *.exr
+Using shader compile flags -DVERTEX_PROFILE=glslv -DFRAGMENT_PROFILE=glslf -DCG_PROFILE_GLSLV=1 -DCG_PROFILE_GLSLF=1
+Additional flags:
+Effect file Effects/MBStandardMaterial/MBStandardMaterial.bin loaded and compiled:
+Technique MBMaterial passed validation in effect Effects/MBStandardMaterial/MBStandardMaterial.binLoading program from file: Shaders/NPR/Blur.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Cg Error compiling program. 
+Loading program from file: Shaders/NPR/EdgePostProcess.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/NPR/NPRPostProcess.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/NormalMapViewportFilter/NormalMapViewportFilter.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/DepthMapViewportFilter/DepthMapViewportFilter.binLoading program source for the profile arbfp1, compiled with -DCG_PROFILE_ARBFP1=1Adding compile option : -DCG_PROFILE_ARBFP1=1 Adding compile option : -po Adding compile option : NumInstructionSlots=16384 Adding compile option : -po Adding compile option : NumMathInstructionSlots=16384 Adding compile option : -po Adding compile option : MaxLocalParams=1024 Loading program from file: Shaders/SSAO/screen_space_AO_Mac.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/SSAO/screen_space_AO_Mac.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/SSAO/screen_space_AO_Mac.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/SSAO/screen_space_AO_Mac.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/Cavity/AO.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/DOF/DOF.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/DOF/Blur.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/Tonemapping/RGBToLuminance.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/Tonemapping/MinMax.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/Tonemapping/Downscale.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/Tonemapping/Gamma.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Sculpt[Sculpt] brush selected
+Stamp set to OFF
+Loading preferences
+Cg error: Invalid program handle.
+Cg error: Invalid context handle.
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Autodesk Mudbox 2015
+Loading file /Users/Max/Projects/Mudbox Projects/T-Rex.mud, version 506
+File contents:
+0000: 00002136(2 KiB) XScene
+0001: 00002a3c(600 bytes) XTransformation
+0002: 00002c94(402 bytes) XCamera
+0003: 00002e26(198 bytes) DirectionalLight
+0004: 00002eec(600 bytes) XTransformation
+0005: 00003144(95 bytes) Stencil
+0006: 000031a3(600 bytes) XTransformation
+0007: 000033fb(394 bytes) XCamera
+0008: 00003585(600 bytes) XTransformation
+0009: 000037dd(105 bytes) ImagePlane
+0010: 00003846(600 bytes) XTransformation
+0011: 00003a9e(30 bytes) ReplayHandler::ConcreteHandler
+0012: 00003abc(95 bytes) Stencil
+0013: 00003b1b(395 bytes) XCamera
+0014: 00003ca6(396 bytes) XCamera
+0015: 00003e32(1 KiB) MBStandardMaterial
+0016: 00004350(105 bytes) ImagePlane
+0017: 000043b9(95 bytes) Stencil
+0018: 00004418(95 bytes) Stencil
+0019: 00004477(30 bytes) TileData
+0020: 00004495(600 bytes) XTransformation
+0021: 000046ed(130 bytes) TextureChannel
+0022: 0000476f(133 bytes) TextureChannel
+0023: 000047f4(124 bytes) TextureChannel
+0024: 00004870(148 bytes) TextureChannel
+0025: 00004904(130 bytes) TextureChannel
+0026: 00004986(178 bytes) TextureChannel
+0027: 00004a38(133 bytes) TextureChannel
+0028: 00004abd(139 bytes) TextureChannel
+0029: 00004b48(154 bytes) TextureChannel
+0030: 00004be2(105 bytes) ImagePlane
+0031: 00004c4b(105 bytes) ImagePlane
+0032: 00004cb4(103 bytes) XGeometry
+0033: 00004d1b(172 bytes) ExportAllPaintLayersNode
+0034: 00004dc7(173 bytes) TextureSet
+0035: 00004e74(174 bytes) TextureSet
+0036: 00004f22(171 bytes) TextureSet
+0037: 00004fcd(179 bytes) TextureSet
+0038: 00005080(173 bytes) TextureSet
+0039: 0000512d(189 bytes) TextureSet
+0040: 000051ea(174 bytes) TextureSet
+0041: 00005298(176 bytes) TextureSet
+0042: 00005348(181 bytes) TextureSet
+0043: 000053fd(114 KiB) XSubdivisionLevel
+0044: 00021df3(176 bytes) ExportAllPaintLayersNode
+0045: 00021ea3(56 bytes) HWRenderer
+0046: 00021edb(56 bytes) HWRenderer
+0047: 00021f13(47 bytes) MudboxMeshGrid
+0048: 00021f42(241 KiB) XSubdivisionLevel
+0049: 0005e381(56 bytes) HWRenderer
+0050: 0005e3b9(70 KiB) PatchMap
+0051: 0006fefd(57 bytes) HWRenderer
+0052: 0006ff36(57 bytes) HWRenderer
+0053: 0006ff6f(47 bytes) MudboxMeshGrid
+0054: 0006ff9e(963 KiB) XSubdivisionLevel
+0055: 00160bbf(56 bytes) HWRenderer
+0056: 00160bf7(57 bytes) HWRenderer
+0057: 00160c30(57 bytes) HWRenderer
+0058: 00160c69(47 bytes) MudboxMeshGrid
+0059: 00160c98(56 bytes) HWRenderer
+file ext string = *.png *.jpg *.gif *.bmp *.tif *.psd *.tga *.exr
+Using shader compile flags -DVERTEX_PROFILE=glslv -DFRAGMENT_PROFILE=glslf -DCG_PROFILE_GLSLV=1 -DCG_PROFILE_GLSLF=1
+Additional flags:
+Effect file Effects/MBStandardMaterial/MBStandardMaterial.bin loaded and compiled:
+Technique MBMaterial passed validation in effect Effects/MBStandardMaterial/MBStandardMaterial.binAutodesk Mudbox 2015
+---------------- ADLM info for CIP Initialization;
+m_sUPIConfigFile:       /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/UPI/UPISpec64
+m_sMapConfigFile:       /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/MC3/mapfile.mlm
+m_sUserGuid:            
+m_sSerialNumber:        000-00000000
+m_sProductName:         Mudbox 2015
+m_sFeatureName:         MBXPRO_F_S_TL
+m_sFeatureVersion:      2014.0411
+m_sProductKey:          498G1
+m_sT2PId:               
+m_iLicenceBehaviour:    5
+m_iLicenseExpDateState: 2
+m_iLicenseUsage:        6
+localeID:               1033
+crashCount:             0
+uptime:                 331
+calUptime:              11663
+m_eInitMode:            0
+---------------- END ADLM info for CIP Initialization
+Using shader compile flags -DVERTEX_PROFILE=glslv -DFRAGMENT_PROFILE=glslf -DCG_PROFILE_GLSLV=1 -DCG_PROFILE_GLSLF=1
+Additional flags:
+Cg Error compiling Effects/MBStandardMaterial/MBStandardMaterial.bin
+Effect file Effects/MBStandardMaterial/MBStandardMaterial.bin loaded and compiled:
+Technique MBMaterial passed validation in effect Effects/MBStandardMaterial/MBStandardMaterial.binLoading program from file: Shaders/TileIDVertex.binLoading program source for the profile glslv, compiled with -DCG_PROFILE_GLSLV=1Adding compile option : -DCG_PROFILE_GLSLV=1 Loading program from file: Shaders/TileIDFragment.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/PickerVertex.binLoading program source for the profile glslv, compiled with -DCG_PROFILE_GLSLV=1Adding compile option : -DCG_PROFILE_GLSLV=1 Loading program from file: Shaders/PickerMatrixSkinnedVertex.binLoading program source for the profile glslv, compiled with -DCG_PROFILE_GLSLV=1Adding compile option : -DCG_PROFILE_GLSLV=1 Loading program from file: Shaders/PickerDualQuaternionSkinnedVertex.binLoading program source for the profile glslv, compiled with -DCG_PROFILE_GLSLV=1Adding compile option : -DCG_PROFILE_GLSLV=1 Subdivide tRex
+Mapping 115968 faces upto level 3
+ Calculating CC positions on level 3
+Unmapping level 2
+Undo
+Undo
+Undo
+Undo
+Saving to file /Users/Max/Projects/Mudbox Projects/T-Rex.mud, version 506
+File contents:
+0000: 00002136(1 KiB) XScene
+0001: 00002900(600 bytes) XTransformation
+0002: 00002b58(402 bytes) XCamera
+0003: 00002cea(198 bytes) DirectionalLight
+0004: 00002db0(600 bytes) XTransformation
+0005: 00003008(95 bytes) Stencil
+0006: 00003067(600 bytes) XTransformation
+0007: 000032bf(394 bytes) XCamera
+0008: 00003449(600 bytes) XTransformation
+0009: 000036a1(105 bytes) ImagePlane
+0010: 0000370a(600 bytes) XTransformation
+0011: 00003962(30 bytes) ReplayHandler::ConcreteHandler
+0012: 00003980(95 bytes) Stencil
+0013: 000039df(395 bytes) XCamera
+0014: 00003b6a(396 bytes) XCamera
+0015: 00003cf6(1 KiB) MBStandardMaterial
+0016: 00004214(105 bytes) ImagePlane
+0017: 0000427d(95 bytes) Stencil
+0018: 000042dc(95 bytes) Stencil
+0019: 0000433b(30 bytes) TileData
+0020: 00004359(600 bytes) XTransformation
+0021: 000045b1(130 bytes) TextureChannel
+0022: 00004633(133 bytes) TextureChannel
+0023: 000046b8(124 bytes) TextureChannel
+0024: 00004734(148 bytes) TextureChannel
+0025: 000047c8(130 bytes) TextureChannel
+0026: 0000484a(178 bytes) TextureChannel
+0027: 000048fc(133 bytes) TextureChannel
+0028: 00004981(139 bytes) TextureChannel
+0029: 00004a0c(154 bytes) TextureChannel
+0030: 00004aa6(105 bytes) ImagePlane
+0031: 00004b0f(105 bytes) ImagePlane
+0032: 00004b78(103 bytes) XGeometry
+0033: 00004bdf(172 bytes) ExportAllPaintLayersNode
+0034: 00004c8b(173 bytes) TextureSet
+0035: 00004d38(174 bytes) TextureSet
+0036: 00004de6(171 bytes) TextureSet
+0037: 00004e91(179 bytes) TextureSet
+0038: 00004f44(173 bytes) TextureSet
+0039: 00004ff1(189 bytes) TextureSet
+0040: 000050ae(174 bytes) TextureSet
+0041: 0000515c(176 bytes) TextureSet
+0042: 0000520c(181 bytes) TextureSet
+0043: 000052c1(114 KiB) XSubdivisionLevel
+0044: 00021cbc(176 bytes) ExportAllPaintLayersNode
+0045: 00021d6c(56 bytes) HWRenderer
+0046: 00021da4(56 bytes) HWRenderer
+0047: 00021ddc(47 bytes) MudboxMeshGrid
+0048: 00021e0b(241 KiB) XSubdivisionLevel
+0049: 0005e24f(56 bytes) HWRenderer
+0050: 0005e287(70 KiB) PatchMap
+0051: 0006fdcb(57 bytes) HWRenderer
+0052: 0006fe04(57 bytes) HWRenderer
+0053: 0006fe3d(47 bytes) MudboxMeshGrid
+0054: 0006fe6c(991 KiB) XSubdivisionLevel
+0055: 00167bd2(56 bytes) HWRenderer
+0056: 00167c0a(57 bytes) HWRenderer
+0057: 00167c43(57 bytes) HWRenderer
+0058: 00167c7c(47 bytes) MudboxMeshGrid
+0059: 00167cab(3 MiB) XSubdivisionLevel
+0060: 0052a851(56 bytes) HWRenderer
+0061: 0052a889(57 bytes) HWRenderer
+0062: 0052a8c2(57 bytes) HWRenderer
+0063: 0052a8fb(47 bytes) MudboxMeshGrid
+0064: 0052a92a(56 bytes) HWRenderer
+Autodesk Mudbox 2015
+Undo
+Undo
+Undo
+Undo
+Smooth[Smooth] brush selected
+Sculpt[Sculpt] brush selected
+Smooth[Smooth] brush selected
+Sculpt[Sculpt] brush selected
+Smooth[Smooth] brush selected
+Sculpt[Sculpt] brush selected
+Smooth[Smooth] brush selected
+Sculpt[Sculpt] brush selected
+Smooth[Smooth] brush selected
+Sculpt[Sculpt] brush selected
+Smooth[Smooth] brush selected
+Sculpt[Sculpt] brush selected
+Smooth[Smooth] brush selected
+Sculpt[Sculpt] brush selected
+Smooth[Smooth] brush selected
+Sculpt[Sculpt] brush selected
+Undo
+Smooth[Smooth] brush selected
+Sculpt[Sculpt] brush selected
+Smooth[Smooth] brush selected
+Sculpt[Sculpt] brush selected
+Smooth[Smooth] brush selected
+Sculpt[Sculpt] brush selected
+Smooth[Smooth] brush selected
+Sculpt[Sculpt] brush selected
+Smooth[Smooth] brush selected
+Sculpt[Sculpt] brush selected
+Smooth[Smooth] brush selected
+Sculpt[Sculpt] brush selected
+Smooth[Smooth] brush selected
+Sculpt[Sculpt] brush selected
+Smooth[Smooth] brush selected
+Sculpt[Sculpt] brush selected
+Undo
+Bulge[Bulge] brush selected
+Stamp set to OFF
+Undo
+Faces[Faces] brush selected
+Undo
+Bulge[Bulge] brush selected
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Grab[Grab] brush selected
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Knife[Knife] brush selected
+Subdivide tRex
+Mapping 463872 faces upto level 4
+ Calculating CC positions on level 4
+Unmapping level 3
+Subdivide tRex
+Mapping 1855488 faces upto level 5
+ Calculating CC positions on level 5
+Unmapping level 4
+Saving to file /Users/Max/Projects/Mudbox Projects/T-Rex.mud, version 506
+File contents:
+0000: 00002136(1 KiB) XScene
+0001: 000028e1(600 bytes) XTransformation
+0002: 00002b39(402 bytes) XCamera
+0003: 00002ccb(198 bytes) DirectionalLight
+0004: 00002d91(600 bytes) XTransformation
+0005: 00002fe9(95 bytes) Stencil
+0006: 00003048(600 bytes) XTransformation
+0007: 000032a0(394 bytes) XCamera
+0008: 0000342a(600 bytes) XTransformation
+0009: 00003682(105 bytes) ImagePlane
+0010: 000036eb(600 bytes) XTransformation
+0011: 00003943(30 bytes) ReplayHandler::ConcreteHandler
+0012: 00003961(95 bytes) Stencil
+0013: 000039c0(395 bytes) XCamera
+0014: 00003b4b(396 bytes) XCamera
+0015: 00003cd7(1 KiB) MBStandardMaterial
+0016: 000041f5(105 bytes) ImagePlane
+0017: 0000425e(95 bytes) Stencil
+0018: 000042bd(95 bytes) Stencil
+0019: 0000431c(30 bytes) TileData
+0020: 0000433a(600 bytes) XTransformation
+0021: 00004592(130 bytes) TextureChannel
+0022: 00004614(133 bytes) TextureChannel
+0023: 00004699(124 bytes) TextureChannel
+0024: 00004715(148 bytes) TextureChannel
+0025: 000047a9(130 bytes) TextureChannel
+0026: 0000482b(178 bytes) TextureChannel
+0027: 000048dd(133 bytes) TextureChannel
+0028: 00004962(139 bytes) TextureChannel
+0029: 000049ed(154 bytes) TextureChannel
+0030: 00004a87(105 bytes) ImagePlane
+0031: 00004af0(105 bytes) ImagePlane
+0032: 00004b59(103 bytes) XGeometry
+0033: 00004bc0(172 bytes) ExportAllPaintLayersNode
+0034: 00004c6c(173 bytes) TextureSet
+0035: 00004d19(174 bytes) TextureSet
+0036: 00004dc7(171 bytes) TextureSet
+0037: 00004e72(179 bytes) TextureSet
+0038: 00004f25(173 bytes) TextureSet
+0039: 00004fd2(189 bytes) TextureSet
+0040: 0000508f(174 bytes) TextureSet
+0041: 0000513d(176 bytes) TextureSet
+0042: 000051ed(181 bytes) TextureSet
+0043: 000052a2(114 KiB) XSubdivisionLevel
+0044: 00021c9d(176 bytes) ExportAllPaintLayersNode
+0045: 00021d4d(56 bytes) HWRenderer
+0046: 00021d85(56 bytes) HWRenderer
+0047: 00021dbd(47 bytes) MudboxMeshGrid
+0048: 00021dec(248 KiB) XSubdivisionLevel
+0049: 0005fe80(56 bytes) HWRenderer
+0050: 0005feb8(70 KiB) PatchMap
+0051: 000719fc(57 bytes) HWRenderer
+0052: 00071a35(57 bytes) HWRenderer
+0053: 00071a6e(47 bytes) MudboxMeshGrid
+0054: 00071a9d(991 KiB) XSubdivisionLevel
+0055: 00169803(56 bytes) HWRenderer
+0056: 0016983b(57 bytes) HWRenderer
+0057: 00169874(57 bytes) HWRenderer
+0058: 001698ad(47 bytes) MudboxMeshGrid
+0059: 001698dc(3 MiB) XSubdivisionLevel
+0060: 00548982(56 bytes) HWRenderer
+0061: 005489ba(57 bytes) HWRenderer
+0062: 005489f3(57 bytes) HWRenderer
+0063: 00548a2c(47 bytes) MudboxMeshGrid
+0064: 00548a5b(15 MiB) XSubdivisionLevel
+0065: 014c4801(56 bytes) HWRenderer
+0066: 014c4839(57 bytes) HWRenderer
+0067: 014c4872(57 bytes) HWRenderer
+0068: 014c48ab(47 bytes) MudboxMeshGrid
+0069: 014c48da(60 MiB) XSubdivisionLevel
+0070: 050eea80(56 bytes) HWRenderer
+0071: 050eeab8(57 bytes) HWRenderer
+0072: 050eeaf1(57 bytes) HWRenderer
+0073: 050eeb2a(47 bytes) MudboxMeshGrid
+0074: 050eeb59(56 bytes) HWRenderer
+Autodesk Mudbox 2015
+Clear scene
+ Destructing mesh
+ Destructing mesh
+ Destructing mesh
+ Destructing mesh
+ Destructing mesh
+ Destructing mesh
+file ext string = *.png *.jpg *.gif *.bmp *.tif *.psd *.tga *.exr
+Using shader compile flags -DVERTEX_PROFILE=glslv -DFRAGMENT_PROFILE=glslf -DCG_PROFILE_GLSLV=1 -DCG_PROFILE_GLSLF=1
+Additional flags:
+Effect file Effects/MBStandardMaterial/MBStandardMaterial.bin loaded and compiled:
+Technique MBMaterial passed validation in effect Effects/MBStandardMaterial/MBStandardMaterial.binAutodesk Mudbox 2015
+Loading program from file: Shaders/NPR/Blur.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Cg Error compiling program. 
+Loading program from file: Shaders/NPR/EdgePostProcess.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/NPR/NPRPostProcess.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/NormalMapViewportFilter/NormalMapViewportFilter.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/DepthMapViewportFilter/DepthMapViewportFilter.binLoading program source for the profile arbfp1, compiled with -DCG_PROFILE_ARBFP1=1Adding compile option : -DCG_PROFILE_ARBFP1=1 Adding compile option : -po Adding compile option : NumInstructionSlots=16384 Adding compile option : -po Adding compile option : NumMathInstructionSlots=16384 Adding compile option : -po Adding compile option : MaxLocalParams=1024 Loading program from file: Shaders/SSAO/screen_space_AO_Mac.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/SSAO/screen_space_AO_Mac.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/SSAO/screen_space_AO_Mac.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/SSAO/screen_space_AO_Mac.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/Cavity/AO.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/DOF/DOF.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/DOF/Blur.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/Tonemapping/RGBToLuminance.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/Tonemapping/MinMax.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/Tonemapping/Downscale.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/Tonemapping/Gamma.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/Basic Head.mud: Current stream version is 506, file is 402
+/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/Bull.mud: Current stream version is 506, file is 402
+/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/Car.mud: Current stream version is 506, file is 505
+/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/Cube.mud: Current stream version is 506, file is 402
+/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/Human Body.mud: Current stream version is 506, file is 505
+/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/Plane.mud: Current stream version is 506, file is 403
+/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/Reptile.mud: Current stream version is 506, file is 402
+/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/Sphere.mud: Current stream version is 506, file is 402
+/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/T Rex.mud: Current stream version is 506, file is 403
+/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/Tree Stump.mud: Current stream version is 506, file is 402
+/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/Sphere.mud: Current stream version is 506, file is 402
+Loading file /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/Sphere.mud, version 402
+file ext string = *.png *.jpg *.gif *.bmp *.tif *.psd *.tga *.exr
+Using shader compile flags -DVERTEX_PROFILE=glslv -DFRAGMENT_PROFILE=glslf -DCG_PROFILE_GLSLV=1 -DCG_PROFILE_GLSLF=1
+Additional flags:
+-DMB_MAXMATRIXBONES=26
+-DMB_MAXDQBONES=40
+Effect file Effects/advanced.bin loaded and compiled:
+Technique MBMaterial passed validation in effect Effects/advanced.binfile ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+Using shader compile flags -DVERTEX_PROFILE=glslv -DFRAGMENT_PROFILE=glslf -DCG_PROFILE_GLSLV=1 -DCG_PROFILE_GLSLF=1
+Additional flags:
+Effect file Effects/MBStandardMaterial/MBStandardMaterial.bin loaded and compiled:
+Technique MBMaterial passed validation in effect Effects/MBStandardMaterial/MBStandardMaterial.binUnhide all
+Undo
+Undo
+Pinch[Pinch] brush selected
+Stamp set to OFF
+Bulge[Bulge] brush selected
+Undo
+Sculpt[Sculpt] brush selected
+Undo
+Undo
+Undo
+Undo
+Undo
+Smooth[Smooth] brush selected
+Sculpt[Sculpt] brush selected
+Smooth[Smooth] brush selected
+Sculpt[Sculpt] brush selected
+Subdivide sphere
+Mapping 6144 faces upto level 2
+ Calculating CC positions on level 2
+Unmapping level 1
+Subdivide sphere
+Mapping 24576 faces upto level 3
+ Calculating CC positions on level 3
+Unmapping level 2
+Subdivide sphere
+Mapping 98304 faces upto level 4
+ Calculating CC positions on level 4
+Unmapping level 3
+Subdivide sphere
+Mapping 393216 faces upto level 5
+ Calculating CC positions on level 5
+Unmapping level 4
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Smooth[Smooth] brush selected
+Sculpt[Sculpt] brush selected
+Smooth[Smooth] brush selected
+Sculpt[Sculpt] brush selected
+Smooth[Smooth] brush selected
+Sculpt[Sculpt] brush selected
+Smooth[Smooth] brush selected
+Sculpt[Sculpt] brush selected
+Smooth[Smooth] brush selected
+Sculpt[Sculpt] brush selected
+Smooth[Smooth] brush selected
+Sculpt[Sculpt] brush selected
+Smooth[Smooth] brush selected
+Sculpt[Sculpt] brush selected
+Smooth[Smooth] brush selected
+Sculpt[Sculpt] brush selected
+Smooth[Smooth] brush selected
+Sculpt[Sculpt] brush selected
+Undo
+Pinch[Pinch] brush selected
+Wax[Wax] brush selected
+Undo
+Scrape[Scrape] brush selected
+Undo
+Fill[Fill] brush selected
+Undo
+Knife[Knife] brush selected
+Undo
+Undo
+Undo
+Smear[Smear] brush selected
+Stamp set to OFF
+Scrape[Scrape] brush selected
+Imprint[Imprint] brush selected
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Undo
+Undo
+Undo
+Undo
+Smear[Smear] brush selected
+Stamp set to OFF
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Stamp set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stamps/rgb_moss.tif
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Stamp set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stamps/bw_fiber.tif
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Amplify[Amplify] brush selected
+Stamp set to OFF
+Imprint[Imprint] brush selected
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Undo
+Stamp set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stamps/bw_dirt1.tif
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Undo
+Stamp set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stamps/rgb_moss.tif
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Undo
+Stamp set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stamps/rgb_rustColor1.tif
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Undo
+Undo
+Stamp set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stamps/bw_rubble.tif
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Undo
+Undo
+Stamp set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stamps/knife.tif
+Undo
+Undo
+Undo
+Stamp set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stamps/rgb_blueCoral.tif
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Stamp set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stamps/rgb_brainCoral.tif
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Stamp set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stamps/rgb_brownLeaf.tif
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Stamp set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stamps/v_tube_vdm.tif
+Stamp set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stamps/v_fold_vdm.tif
+Stamp set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stamps/rubble.tif
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Stamp set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stamps/rgb_yellowChip.tif
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Stamp set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stamps/rgb_woodChips.tif
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Stamp set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stamps/rgb_stones.tif
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Stamp set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stamps/rgb_stoneCarving.tif
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Stamp set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stamps/rgb_rustColor2.tif
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Stamp set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stamps/rgb_rustColor1.tif
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Stamp set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stamps/rgb_pebblesVar2.tif
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Stamp set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stamps/rgb_pebbles.tif
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Stamp set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stamps/rgb_mudCracks.tif
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Stamp set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stamps/rgb_mossBranches.tif
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Stamp set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stamps/rgb_moss.tif
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Stamp set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stamps/rgb_leafs.tif
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Stamp set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stamps/rgb_heavyConcrete1.tif
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Undo
+Undo
+Stamp set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stamps/rgb_colorNoise.tif
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Undo
+Stamp set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stamps/rgb_cliffVar2.tif
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Undo
+Undo
+Stamp set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stamps/rgb_leafs.tif
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Undo
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Undo
+Stamp set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stamps/rgb_gravelMed.TIF
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Encountered unspecified extra channel in a tiff file. Assuming premultiplied Alpha
+Undo
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_cellNoise.png
+Undo
+Undo
+Sculpt[Sculpt] brush selected
+Stamp set to OFF
+Undo
+Undo
+Undo
+Undo
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/rgb_grass.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_tiledPerlinNoise.png
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_tiledPatchInWall.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_tiledBrickWall.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/v_tiledScales_vdm.tif
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/v_humanEar_vdm.tif
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_terrain.png
+Undo
+Undo
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_streaked.png
+Undo
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_splatteredScratched.png
+Undo
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_skin09.jpg
+Undo
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/graphic_freezeArch.png
+Undo
+Undo
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/graphic_circle.png
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_cellNoise.png
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_tiledPerlinNoise.png
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_wrinkles01.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_dirtyStreaks.png
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_fineStoneDetail.png
+Undo
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_neckSkin.jpg
+Undo
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_neckSkin.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_pores.png
+Undo
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_skin03.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_skin04.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_skin03.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_skin04.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_skin05.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_skin06.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_skin07.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_skin08.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_skin09.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_splattered.png
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_splattered.png
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/rgb_stone2.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/rgb_stoneWall.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/rgb_stoneWall.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/rgb_tiledBark.png
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/rgb_tiledStone.png
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/rgb_woodBoards.jpg
+Undo
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/rgb_woodBoards.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_streaksFull.png
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_streaked.png
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/rgba_barkEyes.png
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/v_tiledScales_vdm.tif
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/v_humanEar_vdm.tif
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/v_tiledScales_vdm.tif
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Stencil set to OFF
+Undo
+Pinch[Pinch] brush selected
+Knife[Knife] brush selected
+Undo
+Undo
+Amplify[Amplify] brush selected
+Stamp set to OFF
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Sculpt[Sculpt] brush selected
+Undo
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_skin06.jpg
+Undo
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_skin04.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_skin02.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_cellNoise.png
+Undo
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_tiledPerlinNoise.png
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_wrinkles01.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/graphic_circle.png
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/rgb_bricks.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/rgb_fur.jpg
+Undo
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_pores.png
+Undo
+Undo
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_skin06.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_skin04.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_skin03.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_skin02.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/rgb_grass.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/rgb_metalSkid.jpg
+Undo
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/rgb_rust.jpg
+Undo
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/rgb_stone.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/rgb_stone2.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/rgb_stoneWall.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/rgb_tiledBark.png
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_tiledBrickWall.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_tiledPatchInWall.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_terrain.png
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_streaked.png
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_splatteredScratched.png
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_splattered.png
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_skin09.jpg
+Undo
+Undo
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_grimeScratched.png
+Undo
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_tiledPerlinNoise.png
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_fineStoneDetail.png
+Undo
+Undo
+Undo
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/rgb_fur.jpg
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_neckSkin.jpg
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Stencil set to OFF
+Undo
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_pores.png
+Stencil set to /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Stencils/bw_neckSkin.jpg
+Stencil set to OFF
+Saving to file /Users/Max/Projects/Mudbox Projects/Orange.mud, version 506
+File contents:
+0000: 00002136(2 KiB) XScene
+0001: 00002acb(600 bytes) XTransformation
+0002: 00002d23(402 bytes) XCamera
+0003: 00002eb5(198 bytes) DirectionalLight
+0004: 00002f7b(600 bytes) XTransformation
+0005: 000031d3(179 bytes) Stencil
+0006: 00003286(600 bytes) XTransformation
+0007: 000034de(394 bytes) XCamera
+0008: 00003668(600 bytes) XTransformation
+0009: 000038c0(105 bytes) ImagePlane
+0010: 00003929(600 bytes) XTransformation
+0011: 00003b81(1 KiB) MBStandardMaterial
+0012: 0000409f(95 bytes) Stencil
+0013: 000040fe(395 bytes) XCamera
+0014: 00004289(396 bytes) XCamera
+0015: 00004415(30 bytes) TileData
+0016: 00004433(30 bytes) ReplayHandler::ConcreteHandler
+0017: 00004451(130 bytes) TextureChannel
+0018: 000044d3(133 bytes) TextureChannel
+0019: 00004558(124 bytes) TextureChannel
+0020: 000045d4(148 bytes) TextureChannel
+0021: 00004668(130 bytes) TextureChannel
+0022: 000046ea(178 bytes) TextureChannel
+0023: 0000479c(133 bytes) TextureChannel
+0024: 00004821(139 bytes) TextureChannel
+0025: 000048ac(154 bytes) TextureChannel
+0026: 00004946(105 bytes) ImagePlane
+0027: 000049af(95 bytes) Stencil
+0028: 00004a0e(95 bytes) Stencil
+0029: 00004a6d(600 bytes) XTransformation
+0030: 00004cc5(173 bytes) TextureSet
+0031: 00004d72(174 bytes) TextureSet
+0032: 00004e20(171 bytes) TextureSet
+0033: 00004ecb(179 bytes) TextureSet
+0034: 00004f7e(173 bytes) TextureSet
+0035: 0000502b(189 bytes) TextureSet
+0036: 000050e8(174 bytes) TextureSet
+0037: 00005196(176 bytes) TextureSet
+0038: 00005246(181 bytes) TextureSet
+0039: 000052fb(105 bytes) ImagePlane
+0040: 00005364(105 bytes) ImagePlane
+0041: 000053cd(107 bytes) XGeometry
+0042: 00005438(172 bytes) ExportAllPaintLayersNode
+0043: 000054e4(24 KiB) XSubdivisionLevel
+0044: 0000b583(176 bytes) ExportAllPaintLayersNode
+0045: 0000b633(56 bytes) HWRenderer
+0046: 0000b66b(56 bytes) HWRenderer
+0047: 0000b6a3(47 bytes) MudboxMeshGrid
+0048: 0000b6d2(83 KiB) XSubdivisionLevel
+0049: 0002067a(56 bytes) HWRenderer
+0050: 000206b2(56 bytes) HWRenderer
+0051: 000206ea(56 bytes) HWRenderer
+0052: 00020722(47 bytes) MudboxMeshGrid
+0053: 00020751(210 KiB) XSubdivisionLevel
+0054: 000550f7(15 KiB) PatchMap
+0055: 00058d1b(56 bytes) HWRenderer
+0056: 00058d53(57 bytes) HWRenderer
+0057: 00058d8c(57 bytes) HWRenderer
+0058: 00058dc5(47 bytes) MudboxMeshGrid
+0059: 00058df4(816 KiB) XSubdivisionLevel
+0060: 00124f9a(56 bytes) HWRenderer
+0061: 00124fd2(57 bytes) HWRenderer
+0062: 0012500b(57 bytes) HWRenderer
+0063: 00125044(47 bytes) MudboxMeshGrid
+0064: 00125073(3 MiB) XSubdivisionLevel
+0065: 0046d219(56 bytes) HWRenderer
+0066: 0046d251(57 bytes) HWRenderer
+0067: 0046d28a(57 bytes) HWRenderer
+0068: 0046d2c3(47 bytes) MudboxMeshGrid
+0069: 0046d2f2(13 MiB) XSubdivisionLevel
+0070: 0118d498(56 bytes) HWRenderer
+0071: 0118d4d0(57 bytes) HWRenderer
+0072: 0118d509(57 bytes) HWRenderer
+0073: 0118d542(47 bytes) MudboxMeshGrid
+0074: 0118d571(56 bytes) HWRenderer
+Autodesk Mudbox 2015
+file ext string = *.png *.jpg *.gif *.bmp *.tif *.psd *.tga *.exr
+Using shader compile flags -DVERTEX_PROFILE=glslv -DFRAGMENT_PROFILE=glslf -DCG_PROFILE_GLSLV=1 -DCG_PROFILE_GLSLF=1
+Additional flags:
+Effect file Effects/MBStandardMaterial/MBStandardMaterial.bin loaded and compiled:
+Technique MBMaterial passed validation in effect Effects/MBStandardMaterial/MBStandardMaterial.binUsing shader compile flags -DVERTEX_PROFILE=glslv -DFRAGMENT_PROFILE=glslf -DCG_PROFILE_GLSLV=1 -DCG_PROFILE_GLSLF=1
+Additional flags:
+Cg Error compiling Effects/MBStandardMaterial/MBStandardMaterial.bin
+Effect file Effects/MBStandardMaterial/MBStandardMaterial.bin loaded and compiled:
+Technique MBMaterial passed validation in effect Effects/MBStandardMaterial/MBStandardMaterial.binIsolate active object
+Isolate active object
+file ext string = *.png *.jpg *.gif *.bmp *.tif *.psd *.tga *.exr
+Using shader compile flags -DVERTEX_PROFILE=glslv -DFRAGMENT_PROFILE=glslf -DCG_PROFILE_GLSLV=1 -DCG_PROFILE_GLSLF=1
+Additional flags:
+Effect file Effects/MBStandardMaterial/MBStandardMaterial.bin loaded and compiled:
+Technique MBMaterial passed validation in effect Effects/MBStandardMaterial/MBStandardMaterial.binUsing shader compile flags -DVERTEX_PROFILE=glslv -DFRAGMENT_PROFILE=glslf -DCG_PROFILE_GLSLV=1 -DCG_PROFILE_GLSLF=1
+Additional flags:
+Cg Error compiling Effects/MBStandardMaterial/MBStandardMaterial.bin
+Effect file Effects/MBStandardMaterial/MBStandardMaterial.bin loaded and compiled:
+Technique MBMaterial passed validation in effect Effects/MBStandardMaterial/MBStandardMaterial.binPaint Brush[Paint Brush] brush selected
+Loading program from file: Shaders/TexturePaint/mask.binLoading program source for the profile arbvp1, compiled with -DCG_PROFILE_ARBVP1=1Adding compile option : -DCG_PROFILE_ARBVP1=1 Adding compile option : -po Adding compile option : MaxLocalParams=1024 Adding compile option : -po Adding compile option : MaxInstruction=16384 Adding compile option : -po Adding compile option : NumTemps=1024 Loading program from file: Shaders/TexturePaint/mask.binLoading program source for the profile arbfp1, compiled with -DCG_PROFILE_ARBFP1=1Adding compile option : -DCG_PROFILE_ARBFP1=1 Adding compile option : -po Adding compile option : NumInstructionSlots=16384 Adding compile option : -po Adding compile option : NumMathInstructionSlots=16384 Adding compile option : -po Adding compile option : MaxLocalParams=1024 Loading program from file: Shaders/TexturePaint/blur.binLoading program source for the profile arbvp1, compiled with -DCG_PROFILE_ARBVP1=1Adding compile option : -DCG_PROFILE_ARBVP1=1 Adding compile option : -po Adding compile option : MaxLocalParams=1024 Adding compile option : -po Adding compile option : MaxInstruction=16384 Adding compile option : -po Adding compile option : NumTemps=1024 Loading program from file: Shaders/TexturePaint/blur.binLoading program source for the profile arbfp1, compiled with -DCG_PROFILE_ARBFP1=1Adding compile option : -DCG_PROFILE_ARBFP1=1 Adding compile option : -po Adding compile option : NumInstructionSlots=16384 Adding compile option : -po Adding compile option : NumMathInstructionSlots=16384 Adding compile option : -po Adding compile option : MaxLocalParams=1024 Loading program from file: Shaders/TexturePaint/blur.binLoading program source for the profile arbfp1, compiled with -DCG_PROFILE_ARBFP1=1Adding compile option : -DCG_PROFILE_ARBFP1=1 Adding compile option : -po Adding compile option : NumInstructionSlots=16384 Adding compile option : -po Adding compile option : NumMathInstructionSlots=16384 Adding compile option : -po Adding compile option : MaxLocalParams=1024 CombinedLayerDialog::NewLayerPaint
+CombinedLayerDialog::OnNewLayerPaint
+
+PaintLayerPropertiesDialog: Expose 8K Textures? Video Memory = 1536Meg, Expose8K = 0
+file ext string = PNG [8 bit, RGBA]  *.png;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+Insert new layer
+Select layer
+Recreating UVs
+Recreating UVs
+Recreating UVs
+Recreating UVs
+ Updated texture coordinates (6402 new item)
+ Updated texture coordinates (25090 new item)
+ Updated texture coordinates (99330 new item)
+ Updated texture coordinates (395266 new item)
+Loading program source for the profile arbfp1, compiled with -DCG_PROFILE_ARBFP1=1Adding compile option : -DCG_PROFILE_ARBFP1=1 Adding compile option : -po Adding compile option : NumInstructionSlots=16384 Adding compile option : -po Adding compile option : NumMathInstructionSlots=16384 Adding compile option : -po Adding compile option : MaxLocalParams=1024 Loading program source for the profile arbvp1, compiled with -DCG_PROFILE_ARBVP1=1Adding compile option : -DCG_PROFILE_ARBVP1=1 Adding compile option : -po Adding compile option : MaxLocalParams=1024 Adding compile option : -po Adding compile option : MaxInstruction=16384 Adding compile option : -po Adding compile option : NumTemps=1024 Loading program source for the profile arbfp1, compiled with -DCG_PROFILE_ARBFP1=1Adding compile option : -DCG_PROFILE_ARBFP1=1 Adding compile option : -po Adding compile option : NumInstructionSlots=16384 Adding compile option : -po Adding compile option : NumMathInstructionSlots=16384 Adding compile option : -po Adding compile option : MaxLocalParams=1024 Loading program source for the profile arbvp1, compiled with -DCG_PROFILE_ARBVP1=1Adding compile option : -DCG_PROFILE_ARBVP1=1 Adding compile option : -po Adding compile option : MaxLocalParams=1024 Adding compile option : -po Adding compile option : MaxInstruction=16384 Adding compile option : -po Adding compile option : NumTemps=1024 Building adjacency. Number of open edges: 128
+ Destructing mesh
+CombinedLayerDialog::OnNewLayerPaint
+
+PaintLayerPropertiesDialog: Expose 8K Textures? Video Memory = 1536Meg, Expose8K = 0
+file ext string = PNG [8 bit, RGBA]  *.png;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+Insert new layer
+Select layer
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Select layer
+Delete layer
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+Undo
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+Building adjacency. Number of open edges: 128
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+Starting texture extraction with the following parameters:
+: 4 (level: 5, faces: 393216)
+: mesh (level: 0, faces: 384)
+: Ray Casting
+validity: true
+utilizertouse: 
+nextcommand: 
+: 
+Tangent&Binormal Settings: 
+Method:: 1
+Use Limit Surface: false
+lowlimitsurface preserve creases and hard edges: true
+Smooth UVs: false
+Use Limit Surface: true
+Cancel: 0
+Start: 0
+HiddenFromUI: false
+Locked: false
+Visible: true
+Children: NULL
+Parent: Scene
+Previous: Orange_Skin
+Next: sphere (flattened)
+THIS: My Extraction Operation 1
+file ext string = *.png *.jpg *.bmp *.tif *.psd *.tga *.exr
+Starting map extraction
+Memory: 59 MB/5.5 GB, 98%%
+Using multithreading (8 cores)
+Cleaning up memory
+Memory: 53 MB/5.6 GB, 99%%
+==== Memory Blocks Begin ====
+(Skipping blocks smaller than 167772)
+Block size:16777200 (16), name: normal updater, at 0x12bb10000
+Block size:10280920 (40), name: mesh restore buffer, at 0x123326000
+Block size:7864360 (20), name: mesh vertex data, at 0x120e74000
+Block size:6291456 (4), name: topology TCI, at 0x17d084000
+Block size:6291456 (4), name: topology normal indices, at 0x13d160000
+Block size:6291456 (4), name: topology indices, at 0x141fbd000
+Block size:3162128 (8), name: mesh TC, at 0x130d1f000
+Block size:3145744 (8), name: mesh vertex normals, at 0x11ff99000
+Block size:2097148 (4), name: unknown, at 0x1378d9000
+Block size:1966120 (20), name: mesh vertex data, at 0x11f17b000
+Block size:1650864 (4), name: hwpicker map, at 0x130b5a000
+Block size:1646952 (4), name: hwpicker map, at 0x11b803000
+Block size:1646952 (4), name: hwpicker map, at 0x1222a6000
+Block size:1572872 (4), name: unknown, at 0x12253e000
+Block size:1572864 (4), name: topology faceIDs, at 0x11fc38000
+Block size:1572864 (4), name: unknown, at 0x124f26000
+Block size:1572864 (4), name: topology indices, at 0x11ec9a000
+Block size:1572864 (4), name: topology normal indices, at 0x11ee1a000
+Block size:1572864 (4), name: topology TCI, at 0x129e10000
+Block size:1179672 (12), name: subdiv ccpositions, at 0x11cb06000
+Block size:1048568 (8), name: mesh global collection, at 0x11fdb8000
+Block size:794640 (8), name: mesh expanded TCs, at 0x129610000
+Block size:794640 (8), name: mesh TC, at 0x1122ff000
+Block size:786448 (8), name: mesh vertex normals, at 0x11f05a000
+Block size:491560 (20), name: mesh vertex data, at 0x11b368000
+Block size:393224 (4), name: unknown, at 0x11afcd000
+Block size:393216 (1), name: face temp state, at 0x11fbd8000
+Block size:393216 (1), name: face state, at 0x11effa000
+Block size:393216 (4), name: topology TCI, at 0x118c12000
+Block size:393216 (4), name: topology normal indices, at 0x118c95000
+Block size:393216 (4), name: topology indices, at 0x109bef000
+Block size:393216 (4), name: topology faceIDs, at 0x11ef9a000
+Block size:294936 (12), name: subdiv ccpositions, at 0x119f25000
+Block size:200720 (8), name: mesh TC, at 0x11f412000
+Block size:196624 (8), name: mesh vertex normals, at 0x1125a4000
+Total: 86.01M
+==== Memory Blocks End ====
+Balanced tree ready for sphere
+	root: (0.0671921, 1.95431, -0.332146)-108.108
+Memory: 13 MB/5.5 GB, 99%%
+Preparing the low resolution mesh
+Open edges: 0
+Mesh extended at open edges with 0 new quads, 0 new vertices
+Allocating face index map
+Processing tile 0:0 (0-1, 0-1)
+Memory: 7.3 MB/5.5 GB, 99%%
+Memory: 7.4 MB/5.5 GB, 99%%
+	Extracting maps
+
+FP CONTROL REGISTER  = (0001111110100101)
+
+FP CONTROL REGISTER  = (0001111110000000)
+saving image: /Users/Max/Projects/Mudbox Projects.tif
+saving image: /Users/Max/Projects/Mudbox Projects/Orange_Texture.tif
+Setting subtile to virtual Img with pixel conversion (0, 0, 1024, 512)Setting subtile to virtual Img with pixel conversion (0, 512, 1024, 512)
+FP CONTROL REGISTER  = (0001111110100000)
+====================
+Statistics for btree:
+	pick count: 952208
+	failed: 4 (0.000420076%)
+	number of checked faces: 7786239
+	number of checked nodes: 37434357
+	average number of faces per pick: 8
+	average number of nodes per pick: 39
+	maximum number of faces per pick: 72
+	maximum number of nodes per pick: 116
+====================
+Memory: 22 MB/5.5 GB, 99%%
+Map extraction finished successfully.
+Using shader compile flags -DVERTEX_PROFILE=glslv -DFRAGMENT_PROFILE=glslf -DCG_PROFILE_GLSLV=1 -DCG_PROFILE_GLSLF=1
+Additional flags:
+-DMB_NORMALMAP=1
+-DMB_NORMALMAPMAYA=1
+-DMB_NORMALMAPTANGENT=1
+Effect file Effects/MBStandardMaterial/MBStandardMaterial.bin loaded and compiled:
+Technique MBMaterial passed validation in effect Effects/MBStandardMaterial/MBStandardMaterial.binfile ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+Starting texture extraction with the following parameters:
+: 4 (level: 5, faces: 393216)
+: mesh (level: 0, faces: 384)
+: Ray Casting
+validity: true
+utilizertouse: 
+nextcommand: 
+: 
+Tangent&Binormal Settings: 
+Method:: 1
+Use Limit Surface: false
+lowlimitsurface preserve creases and hard edges: true
+Smooth UVs: false
+Use Limit Surface: true
+Cancel: 0
+Start: 0
+HiddenFromUI: false
+Locked: false
+Visible: true
+Children: NULL
+Parent: Scene
+Previous: Orange_Skin
+Next: sphere (flattened)
+THIS: My Extraction Operation 1
+file ext string = *.png *.jpg *.bmp *.tif *.psd *.tga *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+Starting texture extraction with the following parameters:
+: 4 (level: 5, faces: 393216)
+: mesh (level: 0, faces: 384)
+: Ray Casting
+validity: true
+utilizertouse: 
+nextcommand: 
+: 
+Tangent&Binormal Settings: 
+Method:: 1
+Use Limit Surface: false
+lowlimitsurface preserve creases and hard edges: true
+Smooth UVs: false
+Use Limit Surface: true
+Cancel: 0
+Start: 0
+HiddenFromUI: false
+Locked: false
+Visible: true
+Children: NULL
+Parent: Scene
+Previous: Orange_Skin
+Next: sphere (flattened)
+THIS: My Extraction Operation 1
+file ext string = *.png *.jpg *.bmp *.tif *.psd *.tga *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+Starting texture extraction with the following parameters:
+: 4 (level: 5, faces: 393216)
+: mesh (level: 0, faces: 384)
+: Ray Casting
+validity: true
+utilizertouse: 
+nextcommand: 
+: 
+Tangent&Binormal Settings: 
+Method:: 1
+Use Limit Surface: false
+lowlimitsurface preserve creases and hard edges: true
+Smooth UVs: false
+Use Limit Surface: true
+Cancel: 0
+Start: 0
+HiddenFromUI: false
+Locked: false
+Visible: true
+Children: NULL
+Parent: Scene
+Previous: Orange_Skin
+Next: sphere (flattened)
+THIS: My Extraction Operation 1
+file ext string = *.png *.jpg *.bmp *.tif *.psd *.tga *.exr
+ Destructing mesh
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+Starting texture extraction with the following parameters:
+: 4 (level: 5, faces: 393216)
+: mesh (level: 0, faces: 384)
+: Ray Casting
+validity: true
+utilizertouse: 
+nextcommand: 
+: 
+Tangent&Binormal Settings: 
+Method:: 1
+Use Limit Surface: false
+lowlimitsurface preserve creases and hard edges: true
+Smooth UVs: false
+Use Limit Surface: true
+Cancel: 0
+Start: 0
+HiddenFromUI: false
+Locked: false
+Visible: true
+Children: NULL
+Parent: Scene
+Previous: Orange_Skin
+Next: NULL
+THIS: My Extraction Operation 1
+file ext string = *.png *.jpg *.bmp *.tif *.psd *.tga *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+Command: exportChannelMerged "/Users/Max/Projects/Mudbox Projects/Orange_Diffuse.tif" "32,fp"Insert new layer
+saving image: /Users/Max/Projects/Mudbox Projects/Orange_Diffuse.tif
+Level down on sphere
+Remapping level 4
+ Calculating CC positions on level 5
+Unmapping level 5
+Level down on sphere
+Remapping level 3
+ Calculating CC positions on level 1
+ Calculating CC positions on level 2
+ Calculating CC positions on level 3
+ Calculating CC positions on level 4
+Unmapping level 4
+Level down on sphere
+Remapping level 2
+ Calculating CC positions on level 3
+Unmapping level 3
+Level down on sphere
+Remapping level 1
+ Calculating CC positions on level 2
+Unmapping level 2
+Level down on sphere
+Remapping level 0
+ Calculating CC positions on level 1
+Unmapping level 1
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+Exporting FBX file /Users/Max/Projects/Mudbox Projects/orange.fbx
+saving image: /Users/Max/Projects/Mudbox Projects/orange.fbx-files/Orange_Skin_Flattened_Diffuse.tif
+Creating dummy imagessaving image: /Users/Max/Projects/Mudbox Projects/orange.fbx-files/Orange_Skin_Flattened_Normal Map.exr
+Creating dummy imagessaving image: /Users/Max/Projects/Mudbox Projects/Orange-files/Orange_Skin_Diffuse Background.png
+saving image: /Users/Max/Projects/Mudbox Projects/Orange-files/Orange_Skin_Orange_Ends.tif
+saving image: /Users/Max/Projects/Mudbox Projects/Orange-files/Orange_Skin_Normal Map Background.png
+saving image: /Users/Max/Projects/Mudbox Projects/Orange-files/Orange_Skin_Orange_Texture.tif
+Saving to file /Users/Max/Projects/Mudbox Projects/Orange.mud, version 506
+File contents:
+0000: 00002136(2 KiB) XScene
+0001: 00002b1e(600 bytes) XTransformation
+0002: 00002d76(402 bytes) XCamera
+0003: 00002f08(198 bytes) DirectionalLight
+0004: 00002fce(600 bytes) XTransformation
+0005: 00003226(179 bytes) Stencil
+0006: 000032d9(600 bytes) XTransformation
+0007: 00003531(394 bytes) XCamera
+0008: 000036bb(600 bytes) XTransformation
+0009: 00003913(105 bytes) ImagePlane
+0010: 0000397c(600 bytes) XTransformation
+0011: 00003bd4(1 KiB) MBStandardMaterial
+0012: 000040f2(95 bytes) Stencil
+0013: 00004151(395 bytes) XCamera
+0014: 000042dc(396 bytes) XCamera
+0015: 00004468(30 bytes) TileData
+0016: 00004486(30 bytes) ReplayHandler::ConcreteHandler
+0017: 000044a4(130 bytes) TextureChannel
+0018: 00004526(133 bytes) TextureChannel
+0019: 000045ab(124 bytes) TextureChannel
+0020: 00004627(148 bytes) TextureChannel
+0021: 000046bb(130 bytes) TextureChannel
+0022: 0000473d(178 bytes) TextureChannel
+0023: 000047ef(133 bytes) TextureChannel
+0024: 00004874(139 bytes) TextureChannel
+0025: 000048ff(154 bytes) TextureChannel
+0026: 00004999(105 bytes) ImagePlane
+0027: 00004a02(95 bytes) Stencil
+0028: 00004a61(95 bytes) Stencil
+0029: 00004ac0(600 bytes) XTransformation
+0030: 00004d18(173 bytes) TextureSet
+0031: 00004dc5(174 bytes) TextureSet
+0032: 00004e73(171 bytes) TextureSet
+0033: 00004f1e(179 bytes) TextureSet
+0034: 00004fd1(173 bytes) TextureSet
+0035: 0000507e(189 bytes) TextureSet
+0036: 0000513b(174 bytes) TextureSet
+0037: 000051e9(176 bytes) TextureSet
+0038: 00005299(181 bytes) TextureSet
+0039: 0000534e(105 bytes) ImagePlane
+0040: 000053b7(105 bytes) ImagePlane
+0041: 00005420(107 bytes) XGeometry
+0042: 0000548b(172 bytes) ExportAllPaintLayersNode
+0043: 00005537(24 KiB) XSubdivisionLevel
+0044: 0000b756(1 KiB) MBStandardMaterial
+0045: 0000bc65(176 bytes) ExportAllPaintLayersNode
+0046: 0000bd15(57 bytes) HWRenderer
+0047: 0000bd4e(57 bytes) HWRenderer
+0048: 0000bd87(47 bytes) MudboxMeshGrid
+0049: 0000bdb6(82 KiB) XSubdivisionLevel
+0050: 0002075e(30 bytes) TileData
+0051: 0002077c(210 bytes) Mapper
+0052: 0002084e(254 bytes) TextureChannel
+0053: 0002094c(133 bytes) TextureChannel
+0054: 000209d1(124 bytes) TextureChannel
+0055: 00020a4d(148 bytes) TextureChannel
+0056: 00020ae1(130 bytes) TextureChannel
+0057: 00020b63(178 bytes) TextureChannel
+0058: 00020c15(133 bytes) TextureChannel
+0059: 00020c9a(143 bytes) TextureChannel
+0060: 00020d29(154 bytes) TextureChannel
+0061: 00020dc3(56 bytes) HWRenderer
+0062: 00020dfb(68 bytes) MudboxTangentGenerator
+0063: 00020e3f(15 KiB) PatchMap
+0064: 00024a63(57 bytes) HWRenderer
+0065: 00024a9c(57 bytes) HWRenderer
+0066: 00024ad5(47 bytes) MudboxMeshGrid
+0067: 00024b04(302 KiB) XSubdivisionLevel
+0068: 000704bb(20 MiB) XSubdivisionLevel
+0069: 014b4672(17 bytes) PosingSampler
+0070: 014b4683(17 bytes) FreezeSampler
+0071: 014b4694(17 bytes) MultiLayersTransfer
+0072: 014b46a5(17 bytes) ColorTransfer
+0073: 014b46b6(39 bytes) AOSampler
+0074: 014b46dd(17 bytes) DummySampler
+0075: 014b46ee(17 bytes) SculptLayerSampler
+0076: 014b46ff(23 bytes) VectorDisplacementMap
+0077: 014b4716(23 bytes) DisplacementMap
+0078: 014b472d(30 bytes) NormalMap
+0079: 014b474b(46 bytes) ImageLayout
+0080: 014b4779(38 bytes) RayCaster
+0081: 014b479f(210 bytes) TextureSet
+0082: 014b4871(196 bytes) TextureSet
+0083: 014b4935(174 bytes) TextureSet
+0084: 014b49e3(171 bytes) TextureSet
+0085: 014b4a8e(179 bytes) TextureSet
+0086: 014b4b41(173 bytes) TextureSet
+0087: 014b4bee(189 bytes) TextureSet
+0088: 014b4cab(174 bytes) TextureSet
+0089: 014b4d59(216 bytes) TextureSet
+0090: 014b4e31(216 bytes) TextureSet
+0091: 014b4f09(181 bytes) TextureSet
+0092: 014b4fbe(56 bytes) HWRenderer
+0093: 014b4ff6(68 bytes) MudboxTangentGenerator
+0094: 014b503a(57 bytes) HWRenderer
+0095: 014b5073(57 bytes) HWRenderer
+0096: 014b50ac(47 bytes) MudboxMeshGrid
+0097: 014b50db(1 MiB) XSubdivisionLevel
+0098: 015e2292(57 bytes) HWRenderer
+0099: 015e22cb(57 bytes) HWRenderer
+0100: 015e2304(47 bytes) MudboxMeshGrid
+0101: 015e2333(5 MiB) XSubdivisionLevel
+0102: 01af44ea(29 bytes) ImageUtilizer
+0103: 01af4507(29 bytes) ImageUtilizer
+0104: 01af4524(29 bytes) ImageUtilizer
+0105: 01af4541(29 bytes) ImageUtilizer
+0106: 01af455e(29 bytes) ImageUtilizer
+0107: 01af457b(29 bytes) ImageUtilizer
+0108: 01af4598(29 bytes) ImageUtilizer
+0109: 01af45b5(29 bytes) ImageUtilizer
+0110: 01af45d2(29 bytes) ImageUtilizer
+0111: 01af45ef(83 bytes) ImageUtilizer
+0112: 01af4642(37 bytes) SwitchCoordinateSpaceGate
+0113: 01af4667(80 bytes) TransformatorGate
+0114: 01af46b7(56 bytes) HWRenderer
+0115: 01af46ef(68 bytes) MudboxTangentGenerator
+0116: 01af4733(57 bytes) HWRenderer
+0117: 01af476c(57 bytes) HWRenderer
+0118: 01af47a5(47 bytes) MudboxMeshGrid
+0119: 01af47d4(56 bytes) HWRenderer
+0120: 01af480c(68 bytes) MudboxTangentGenerator
+0121: 01af4850(57 bytes) HWRenderer
+0122: 01af4889(57 bytes) HWRenderer
+0123: 01af48c2(47 bytes) MudboxMeshGrid
+0124: 01af48f1(56 bytes) HWRenderer
+0125: 01af4929(68 bytes) MudboxTangentGenerator
+0126: 01af496d(56 bytes) HWRenderer
+0127: 01af49a5(68 bytes) MudboxTangentGenerator
+Autodesk Mudbox 2015
+Clear scene
+ Destructing mesh
+ Destructing mesh
+ Destructing mesh
+ Destructing mesh
+ Destructing mesh
+ Destructing mesh
+file ext string = *.png *.jpg *.gif *.bmp *.tif *.psd *.tga *.exr
+Using shader compile flags -DVERTEX_PROFILE=glslv -DFRAGMENT_PROFILE=glslf -DCG_PROFILE_GLSLV=1 -DCG_PROFILE_GLSLF=1
+Additional flags:
+Effect file Effects/MBStandardMaterial/MBStandardMaterial.bin loaded and compiled:
+Technique MBMaterial passed validation in effect Effects/MBStandardMaterial/MBStandardMaterial.binAutodesk Mudbox 2015
+Loading program from file: Shaders/NPR/Blur.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Cg Error compiling program. 
+Loading program from file: Shaders/NPR/EdgePostProcess.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/NPR/NPRPostProcess.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/NormalMapViewportFilter/NormalMapViewportFilter.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/DepthMapViewportFilter/DepthMapViewportFilter.binLoading program source for the profile arbfp1, compiled with -DCG_PROFILE_ARBFP1=1Adding compile option : -DCG_PROFILE_ARBFP1=1 Adding compile option : -po Adding compile option : NumInstructionSlots=16384 Adding compile option : -po Adding compile option : NumMathInstructionSlots=16384 Adding compile option : -po Adding compile option : MaxLocalParams=1024 Loading program from file: Shaders/SSAO/screen_space_AO_Mac.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/SSAO/screen_space_AO_Mac.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/SSAO/screen_space_AO_Mac.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/SSAO/screen_space_AO_Mac.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/Cavity/AO.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/DOF/DOF.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/DOF/Blur.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/Tonemapping/RGBToLuminance.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/Tonemapping/MinMax.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/Tonemapping/Downscale.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 Loading program from file: Shaders/Tonemapping/Gamma.binLoading program source for the profile glslf, compiled with -DCG_PROFILE_GLSLF=1Adding compile option : -DCG_PROFILE_GLSLF=1 /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/Basic Head.mud: Current stream version is 506, file is 402
+/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/Bull.mud: Current stream version is 506, file is 402
+/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/Car.mud: Current stream version is 506, file is 505
+/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/Cube.mud: Current stream version is 506, file is 402
+/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/Human Body.mud: Current stream version is 506, file is 505
+/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/Plane.mud: Current stream version is 506, file is 403
+/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/Reptile.mud: Current stream version is 506, file is 402
+/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/Sphere.mud: Current stream version is 506, file is 402
+/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/T Rex.mud: Current stream version is 506, file is 403
+/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/Tree Stump.mud: Current stream version is 506, file is 402
+/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/Sphere.mud: Current stream version is 506, file is 402
+Loading file /Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Meshes/Sphere.mud, version 402
+file ext string = *.png *.jpg *.gif *.bmp *.tif *.psd *.tga *.exr
+Using shader compile flags -DVERTEX_PROFILE=glslv -DFRAGMENT_PROFILE=glslf -DCG_PROFILE_GLSLV=1 -DCG_PROFILE_GLSLF=1
+Additional flags:
+-DMB_MAXMATRIXBONES=26
+-DMB_MAXDQBONES=40
+Effect file Effects/advanced.bin loaded and compiled:
+Technique MBMaterial passed validation in effect Effects/advanced.binfile ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+file ext string = PNG [8 bit, RGBA]  *.png;JPG [8 bit, RGB]  *.jpg;BMP [8 bit, RGB]  *.bmp;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+Using shader compile flags -DVERTEX_PROFILE=glslv -DFRAGMENT_PROFILE=glslf -DCG_PROFILE_GLSLV=1 -DCG_PROFILE_GLSLF=1
+Additional flags:
+Effect file Effects/MBStandardMaterial/MBStandardMaterial.bin loaded and compiled:
+Technique MBMaterial passed validation in effect Effects/MBStandardMaterial/MBStandardMaterial.binCombinedLayerDialog::NewLayerPaint
+CombinedLayerDialog::OnNewLayerPaint
+
+PaintLayerPropertiesDialog: Expose 8K Textures? Video Memory = 1536Meg, Expose8K = 0
+file ext string = PNG [8 bit, RGBA]  *.png;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+Insert new layer
+Select layer
+Airbrush[Airbrush] brush selected
+Dry Brush[Dry Brush] brush selected
+Undo
+Undo
+Undo
+Undo
+Select layer
+Delete layer
+CombinedLayerDialog::NewLayerPaint
+CombinedLayerDialog::OnNewLayerPaint
+
+PaintLayerPropertiesDialog: Expose 8K Textures? Video Memory = 1536Meg, Expose8K = 0
+file ext string = PNG [8 bit, RGBA]  *.png;TIFF [8 bit, RGBA]  *.tif;TIFF [16 bit Integer, RGBA]  *.tif;TIFF [16 bit Floating Point, RGBA]  *.tif;TIFF [32 bit Floating Point, RGBA]  *.tif;Photoshop [8 bit, RGBA]  *.psd;Photoshop [16 bit Integer, RGBA]  *.psd;Targa [8 bit, RGBA]  *.tga;OpenEXR [16 bit Floating Point, RGBA]  *.exr;OpenEXR [32 bit Floating Point, RGBA]  *.exr
+Cg error: Invalid program handle.
+Cg error: Invalid context handle.
+Total number of polygons rendered during the session: 7060726072
+Shutdown, memory used: 0 Megabytes
+ Destructing mesh
+ Destructing mesh

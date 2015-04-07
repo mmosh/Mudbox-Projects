@@ -1,0 +1,11 @@
+Lighting Preset;/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Presets/lights/Afternoon;/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Presets/lights/Afternoon/Preview.png;;;0;0
+Lighting Preset;/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Presets/lights/Backlit;/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Presets/lights/Backlit/Preview.png;;;0;0
+Lighting Preset;/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Presets/lights/Chapel;/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Presets/lights/Chapel/Preview.png;;;0;0
+Lighting Preset;/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Presets/lights/Default;/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Presets/lights/Default/Preview.png;;;0;0
+Lighting Preset;/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Presets/lights/Evening;/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Presets/lights/Evening/Preview.png;;;0;0
+Lighting Preset;/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Presets/lights/Gallery;/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Presets/lights/Gallery/Preview.png;;;0;0
+Lighting Preset;/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Presets/lights/Late Afternoon;/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Presets/lights/Late Afternoon/Preview.png;;;0;0
+Lighting Preset;/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Presets/lights/Morning2;/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Presets/lights/Morning2/Preview.png;;;0;0
+Lighting Preset;/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Presets/lights/Overcast;/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Presets/lights/Overcast/Preview.png;;;0;0
+Lighting Preset;/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Presets/lights/Soft White;/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Presets/lights/Soft White/Preview.png;;;0;0
+Lighting Preset;/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Presets/lights/Thriller;/Applications/Autodesk/Mudbox2015/Mudbox.app/Contents/MacOS/Presets/lights/Thriller/Preview.png;;;0;0
